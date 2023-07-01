@@ -3,7 +3,7 @@ This organization is a collection of ROS2 modules
 | Name       | Language       | Description |
 |------------|----------------|--------------------------------------------|
 | [compass][c]    | C++            | AHRS node
-| [docker-ros][d] | docker-compose | ROS2 Riddley which is continously updated
+| [docker-ros][d] | docker-compose | ROS2 Riddley which is continously updated and useful for testing
 | [interfaces][i] | messages       | Common messages RTF uses
 | [lds_lidar][l]  | C++            | Lidar driver
 | [sensors][s]    | python         | Adafruit sensor nodes
