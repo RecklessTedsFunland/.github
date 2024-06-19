@@ -1,18 +1,20 @@
 This organization is a collection of ROS2 modules
 
-| Name       | Language       | Description |
-|------------|----------------|--------------------------------------------|
-| [compass][c]    | C++            | AHRS node
-| [docker-ros][d] | docker-compose | ROS2 Riddley which is continously updated and useful for testing
-| [interfaces][i] | messages       | Common messages RTF uses
-| [lds_lidar][l]  | C++            | Lidar driver
-| [sensors][s]    | python         | Adafruit sensor nodes
+| Name                | Language       | Description |
+|---------------------|----------------|--------------------------------------------|
+| [docker-ros][2]     | docker-compose | ROS2 Riddley which is continously updated and useful for testing
+| [rtf_compass][1]    | C++            | AHRS node
+| [rtf_imu][6]        | Python/C++     | URG-04LX lidar node
+| [rtf_interfaces][3] | messages       | Common messages RTF uses
+| [rtf_lds_lidar][4]  | C++            | Lidar driver
+| [rtf_sensors][5]    | Python/C++     | Adafruit sensor nodes
 
-[c]: https://github.com/RecklessTedsFunland/rtf_compass
-[d]: https://github.com/RecklessTedsFunland/docker-ros
-[i]: https://github.com/RecklessTedsFunland/rtf_interfaces
-[l]: https://github.com/RecklessTedsFunland/rtf_lds_lidar
-[s]: https://github.com/RecklessTedsFunland/rtf_sensors
+[1]: https://github.com/RecklessTedsFunland/rtf_compass
+[2]: https://github.com/RecklessTedsFunland/docker-ros
+[3]: https://github.com/RecklessTedsFunland/rtf_interfaces
+[4]: https://github.com/RecklessTedsFunland/rtf_lds_lidar
+[5]: https://github.com/RecklessTedsFunland/rtf_sensors
+[6]: https://github.com/RecklessTedsFunland/rtf_imu
 
 ## Docs
 
